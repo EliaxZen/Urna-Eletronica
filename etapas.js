@@ -37,7 +37,7 @@ let etapas = [
           },
           {
               numero: '84',
-              nome: 'Janilson',
+              nome: 'Euclides',
               partido: 'QWERTY',
               vice: 'Caio',
               fotos:[
